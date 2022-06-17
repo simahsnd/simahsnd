@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611c0369afb2c8e9478b5337cb4a841bf6c8e85af39&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,8 +30,4 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611c0369afb2c8e9478b5337cb4a841bf6c8e85af39&rid=giphy.gif&ct=s" width="100"/>
 </div>
