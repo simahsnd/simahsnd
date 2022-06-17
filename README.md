@@ -1,16 +1,9 @@
 ### Hi there 👋
 
 
-
-
 :woman_technologist: About Me :
 My name is Sima. Thanks for taking the time to view my GitHub Profile.
 - :telescope: I’m working as a Data scientist.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sima-hassanvand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg8Qk3GHxQWqEO5tw8adeiA%3D%3D)
 
 
