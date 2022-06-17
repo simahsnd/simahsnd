@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" url="https://www.linkedin.com/in/sima-hassanvand"/>
+  <a href="https://www.linkedin.com/in/sima-hassanvand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg8Qk3GHxQWqEO5tw8adeiA%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
