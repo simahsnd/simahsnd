@@ -5,7 +5,7 @@
 My name is Sima. Thanks for taking the time to view my GitHub Profile.
 - :telescope: I’m working as a Data scientist.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sima-hassanvand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg8Qk3GHxQWqEO5tw8adeiA%3D%3D)
-[![E-mail Badge](https://img.shields.io/badge/E--mail-gmail-red)](simahsnd@gmail.com)
+[![E-mail Badge](https://img.shields.io/badge/E--mail-simahsnd@gmail.com-red)](simahsnd@gmail.com)
 
 
 <div id="header" align="center">
