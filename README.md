@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif?cid=ecf05e47oz8fomx6yq3uhpjyds875rlmvspi08ril6x9pj10&rid=giphy.gif&ct=s"/>
 </div>
 :hammer_and_wrench: Languages and Tools :<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' style="width:50px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:50px;" />
        
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sima-hassanvand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg8Qk3GHxQWqEO5tw8adeiA%3D%3D">
