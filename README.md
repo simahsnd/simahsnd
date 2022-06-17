@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-:hammer_and_wrench: Languages and Tools : 
+:hammer_and_wrench: Languages and Tools : <\br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width:50px;"/>   
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' style="width:50px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:50px;"/>
