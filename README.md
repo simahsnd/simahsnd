@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif?cid=ecf05e47oz8fomx6yq3uhpjyds875rlmvspi08ril6x9pj10&rid=giphy.gif&ct=s"/>
 </div>
 
+
+:hammer_and_wrench: Languages and Tools :
 <div>
-:hammer_and_wrench: Languages and Tools : <\br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width:50px;"/>   
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' style="width:50px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:50px;"/>
