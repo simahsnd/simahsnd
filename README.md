@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-***My name is Sima. Thanks for taking the time to view my GitHub Profile.
+
 
 :woman_technologist: About Me :
+My name is Sima. Thanks for taking the time to view my GitHub Profile.
 - :telescope: I’m working as a Data scientist.
 
 - :seedling: Exploring Technical Content Writing.
