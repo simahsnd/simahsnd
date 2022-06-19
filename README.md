@@ -3,7 +3,7 @@
 
 :woman_technologist: My name is Sima. Thanks for taking the time to view my GitHub Profile.
 
-- :telescope: I am Data Scientist with big interest in how data shapes our lives! I am a lifelong learner and believe that everyday there are tons of new things we can learn to be, even a bit, better than the person we were yesterday.
+- :telescope: I am Data Scientist with big interest in how data shapes our lives! I am a lifelong learner and believe that everyday there are tons of new things I can learn to be, even a bit, better than the person I was yesterday.
 
 
 
